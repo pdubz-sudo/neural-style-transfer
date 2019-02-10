@@ -9,4 +9,4 @@ of the ideas of this algorithm come from that middle layers of the NN are used a
 not too particularly specific image features but not too low level either of the input that will be converted.
 
 - Unfortunately, the pre-trained VGG 19 Deep NN model is too large to upload on github. It can be downloaded here 
-https://github.com/onnx/models/tree/master/vgg19
+http://www.vlfeat.org/matconvnet/pretrained/ and is called imagenet-vgg-verydeep-19
